@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517666131991",
+    "project_id": "mvvmtest-8ad07",
+    "storage_bucket": "mvvmtest-8ad07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517666131991:android:debdd266ffd96f0a68cc52",
+        "android_client_info": {
+          "package_name": "com.example.basicloginsignupmvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtYQzUPysLg38PvYlizTH-8DSsoZZgwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
